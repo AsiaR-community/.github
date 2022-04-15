@@ -15,7 +15,9 @@ AsiaR is an initiative to promote R communities in countries across Asia (India,
 
 ## Events 
 
+- Invited talk at [Bioconductor.](https://www.youtube.com/watch?v=oDaa0GCPGdc)
 - Read about our first event about Inclusive Communities on Feb 2022 held virtually by India chapter [here.](https://github.com/AsiaR-community/2022-inclusive_communities)
+
 
 ## Join us
 
