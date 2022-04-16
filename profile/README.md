@@ -10,7 +10,7 @@ AsiaR is an initiative to promote R communities in countries across Asia (India,
 - Connect Asian useRs to each other
 - Identify Asian R speakers/participants and facilitate regular webinars, workshops
 - Build a strong enough community to host an AsiaR conference in 2023
-- Discuss and learn about best practices for nucleating and sustaining an engaged community. Specifically, address the lower participation of Asians, specifically Asian URMs in local meetups and international conferences like useR!, rstudio::conference. 
+- Discuss and learn about best practices for nucleating and sustaining an engaged community. Specifically, address the lower participation of Asians, specifically Asian URMs in local meetups and international conferences like useR!, rstudio::conference, R@IISA etc,. 
 - Engage with people from various backgrounds and organisations to understand how they lean on the community for assistance. 
 
 ## Events 
